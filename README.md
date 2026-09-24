@@ -11,8 +11,8 @@ Found under "MRS_predicts_CHD_TOPMed/WHI_discovery/"
 - Tensor Composition Analysis (TCA)
 - Permutation resampling analysis
 
-"GREAT.R" - Gene set enrichment analysis using GREAT
-"EWAS_catalogue_13_sites.R" - Generation of EWAS catalogue for 13 Bonferroni sites
+- "GREAT.R" - Gene set enrichment analysis using GREAT
+- "EWAS_catalogue_13_sites.R" - Generation of EWAS catalogue for 13 Bonferroni sites
 
 ## Generalization meta-analyses performed in the Jackson Heart Study (JHS) and Multi-Ethnic Study of Atherosclerosis (MESA) cohort data.
 Found under "MRS_predicts_CHD_TOPMed/JHS_MESA_meta_analysis/"
