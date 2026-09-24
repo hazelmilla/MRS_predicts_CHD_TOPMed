@@ -1,5 +1,5 @@
 # MRS_TOPMed
-## Methylation risk scores (MRS) predict coronary heart disease in TOPMed cohorts
+# Stress-Related and Monocyte-Specific Methylation Risk Scores Predict Coronary Heart Disease in Postmenopausal Women
 
 ## Discovery analyses performed in the Women's Health Initiative (WHI) cohort.
 - Cox regression associating stress with CHD and MI
