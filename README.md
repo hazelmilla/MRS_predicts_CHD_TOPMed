@@ -2,6 +2,7 @@
 # Stress-Related and Monocyte-Specific Methylation Risk Scores Predict Coronary Heart Disease in Postmenopausal Women
 
 ## Discovery analyses performed in the Women's Health Initiative (WHI) cohort.
+Found under "MRS_predicts_CHD_TOPMed/WHI_discovery/"
 - Cox regression associating stress with CHD and MI
 - Epigenome wide association study (EWAS)
 - Calculation of MRS
