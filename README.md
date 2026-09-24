@@ -3,6 +3,7 @@
 
 ## Discovery analyses performed in the Women's Health Initiative (WHI) cohort.
 Found under "MRS_predicts_CHD_TOPMed/WHI_discovery/"
+
 - Cox regression associating stress with CHD and MI
 - Epigenome wide association study (EWAS)
 - Calculation of MRS
@@ -14,7 +15,7 @@ Found under "MRS_predicts_CHD_TOPMed/WHI_discovery/"
 "EWAS_catalogue_13_sites.R" - Generation of EWAS catalogue for 13 Bonferroni sites
 
 ## Generalization meta-analyses performed in the Jackson Heart Study (JHS) and Multi-Ethnic Study of Atherosclerosis (MESA) cohort data.
-Found under path "JHS_MESA_meta_analysis/"
+Found under "MRS_predicts_CHD_TOPMed/JHS_MESA_meta_analysis/"
 
 1. "Data_prep.R" - Data prep
 2. "MRS_calculation.R" - Calculation of MRS
